@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m Dominic Ridley
 - 👀 I’m interested in data, basketball analytics, machine learning and coffee!
-- 🌱 I’m currently taking Thinkful's Data Science bootcamp to sharpen my data science skills
+- 🌱 I’m currently taking a Data Science bootcamp to sharpen my data science skills
 - 💞️ I’m looking for Data Science full-time positions
 - ✨ Pronouns: they/them 
 - 📫 How to reach me: dominicridley@gmail.com
