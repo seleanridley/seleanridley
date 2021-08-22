@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m Dominic Ridley
 - 👀 I’m interested in data, basketball analytics, machine learning and coffee!
-- 🌱 I’m currently taking a Data Science bootcamp and AWS Machine Learning course to sharpen my data science skills
-- 💞️ I’m looking for Data Scientist, Backend Engineer and Software Engineer full-time positions
+- 🌱 I’m currently learning React
+- 💞️ I’m looking for Data Engineer, Backend Engineer and Software Engineer full-time positions
 - ✨ Pronouns: they/them 
 - 📫 How to reach me: dominicridley@gmail.com
 
