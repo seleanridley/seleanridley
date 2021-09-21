@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m Dominic Ridley
 - 👀 I’m interested in data, basketball analytics, machine learning and coffee!
 - 🌱 I’m currently learning React
-- 💞️ I’m looking for Data Engineer, Backend Engineer and Software Engineer full-time positions
+- 💞️ Full-time Data Engineer, part-time teaching assistant
 - ✨ Pronouns: they/them 
 - 📫 How to reach me: dominicridley@gmail.com
 
